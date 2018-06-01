@@ -9,10 +9,11 @@ The next step, which describes data cleaning and processing, is described [here]
 
 Number of Attributes: 22 (all nominally valued)
 
+```
 Attribute Information: (classes: edible=e, poisonous=p)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. cap-shape:                bell=b,conical=c,convex=x,flat=f,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                  knobbed=k,sunken=s<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     2. cap-surface:              fibrous=f,grooves=g,scaly=y,smooth=s<br/>
+     1. cap-shape:                bell=b,conical=c,convex=x,flat=f,<br/>
+                                  knobbed=k,sunken=s<br/>
+     2. cap-surface:              fibrous=f,grooves=g,scaly=y,smooth=s<br/>
      3. cap-color:                brown=n,buff=b,cinnamon=c,gray=g,green=r,<br/>
                                   pink=p,purple=u,red=e,white=w,yellow=y<br/>
      4. bruises?:                 bruises=t,no=f<br/>
@@ -44,7 +45,7 @@ Attribute Information: (classes: edible=e, poisonous=p)<br/>
                                   scattered=s,several=v,solitary=y<br/>
     22. habitat:                  grasses=g,leaves=l,meadows=m,paths=p,<br/>
                                   urban=u,waste=w,woods=d<br/>
-
+```
 The following function reads the raw data:
 
 ```
