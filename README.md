@@ -49,7 +49,7 @@ Attribute Information: (classes: edible=e, poisonous=p)
 
 The following function imports the raw data:
 
-```
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
