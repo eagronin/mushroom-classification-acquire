@@ -10,8 +10,8 @@ The next step, which describes data cleaning and processing, is described [here]
 Number of Attributes: 22 (all nominally valued)
 
 Attribute Information: (classes: edible=e, poisonous=p)<br/>
-     1. cap-shape:                bell=b,conical=c,convex=x,flat=f,<br/>
-                                  knobbed=k,sunken=s<br/>
+"     1. cap-shape:                bell=b,conical=c,convex=x,flat=f,"<br/>
+"                                  knobbed=k,sunken=s"<br/>
      2. cap-surface:              fibrous=f,grooves=g,scaly=y,smooth=s<br/>
      3. cap-color:                brown=n,buff=b,cinnamon=c,gray=g,green=r,<br/>
                                   pink=p,purple=u,red=e,white=w,yellow=y<br/>
