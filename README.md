@@ -5,7 +5,7 @@ The data and documentation were downloaded from [UCI Machine Learning Repository
 
 The subsequent analysis will reduce dimensionality of the attributes to two principal components and evaluate performance of several classifiers, including Logistic Regression, KNN, Decision Tree, Random Forest, SVC, Naive Bayes and Neural Network, in predicting whether a mushroom with particular attributes is edible or not.
 
-The next step, which describes data cleaning and processing, is described [here](https://eagronin.github.io/mushroom-classification-prepare).
+The next step, which describes data cleaning and processing, is described in the [next section](https://eagronin.github.io/mushroom-classification-prepare).
 
 The target and features are described below.
 
