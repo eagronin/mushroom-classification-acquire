@@ -9,6 +9,10 @@ The analysis in the subsequent sections reduces the dimensionality of the featur
 
 Data cleaning and processing is described in the [next section](https://eagronin.github.io/mushroom-classification-prepare).
 
+This project is based on materials from Applied Machine Learning in Python by University of Michigan on Coursera
+
+The analysis for this project was performed in Python.
+
 ## Data
 
 The target and features are described below.
