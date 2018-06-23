@@ -1,11 +1,15 @@
 # Data Acquisition
 
+## Overview
+
 This section imports data on mushrooms comprised of the attributes listed below and the target that classifies the mushrooms as edible or poisonous.
 The data and documentation were downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/mushroom).
 
 The analysis in the subsequent sections reduces the dimensionality of the feature space to two principal components and evaluates performance of several classifiers, including Logistic Regression, KNN, Decision Tree, Random Forest, SVC, Naive Bayes and Neural Network, in predicting whether a mushroom with particular attributes is edible or not.
 
 Data cleaning and processing is described in the [next section](https://eagronin.github.io/mushroom-classification-prepare).
+
+## Data
 
 The target and features are described below.
 
